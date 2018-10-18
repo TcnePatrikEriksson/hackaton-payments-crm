@@ -46,6 +46,9 @@ Vi har definierat 4 olika testfall:
 - Se till att flera inte kan vara ikryssade samtidigt
 - Om checkboxen uggla är ikryssad och man skriver Magnus i textboxen skall uggla komma upp
 
+#### Frågor
+- Code coverage
+
 ## Länkar
 
 [Enzyme docs](https://airbnb.io/enzyme/docs/api/)
